@@ -1,4 +1,4 @@
-# About Me
+# About Me 📝
 
 My name is **Lia**, and I am **new** to the world of **data analytics** ... well, somewhat new. 
 
